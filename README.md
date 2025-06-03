@@ -58,7 +58,7 @@
 
 ## Как собрать и запустить
 
-1.  Откройте проект в Android Studio.
+1.  Откройте проект в Android Studio. Клонируйте данный репозиторий https://github.com/Twinz-bit/simple-calculator/tree/main
 2.  Убедитесь, что у вас установлены необходимые SDK и инструменты сборки Android.
 3.  Соберите проект (Build -> Make Project).
 4.  Запустите приложение на эмуляторе или подключенном Android-устройстве (Run -> Run 'app').
