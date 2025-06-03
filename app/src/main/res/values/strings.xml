@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="logo_text">Калькулятор</string>
+    <string name="input_hint_1">Введите число 1</string>
+    <string name="input_hint_2">Введите число 2</string>
+    <string name="button_calculate">Решить</string>
+    <string name="answer">Ответ</string>
+    <string name="reset">Сброс</string>
+    <string-array name="operations_array">
+        <item>Сложение</item>
+        <item>Вычитание</item>
+        <item>Умножение</item>
+        <item>Деление</item>
+    </string-array>
+</resources>
